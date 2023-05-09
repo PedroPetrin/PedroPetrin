@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-petrin-655124215/)
 
-![Pedro Petrin GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroPetrin&show_icons=true&theme=radical)
+![Pedro Petrin GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroPetrin&show_icons=true&theme=onedark)
 
 ### Tecnologia que eu utilizo💻
 <div style="display: inline-block">
